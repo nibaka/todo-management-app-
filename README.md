@@ -268,49 +268,5 @@ npm cache clean --force
 npm install
 ```
 
-## 🚀 Future Enhancements
-
-Potential features for future development:
-- [ ] Dark mode toggle
-- [ ] Drag & drop todo reordering
-- [ ] Todo categories/tags
-- [ ] Date range filtering
-- [ ] Export todos (CSV/JSON)
-- [ ] Bulk operations (select multiple)
-- [ ] Todo priority levels
-- [ ] Search with debouncing
-- [ ] Offline support with service workers
-- [ ] User authentication
-- [ ] Todo sharing
-- [ ] Recurring todos
-- [ ] Todo attachments
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📧 Support
-
-For issues, questions, or suggestions, please open an issue in the repository.
-
-## 🙏 Acknowledgments
-
-- [React Documentation](https://react.dev/)
-- [Redux Toolkit Documentation](https://redux-toolkit.js.org/)
-- [Material-UI Documentation](https://mui.com/)
-- [Vite Documentation](https://vitejs.dev/)
-- [TypeScript Documentation](https://www.typescriptlang.org/)
-
----
 
 **Built with ❤️ using React, TypeScript, and Redux Toolkit**
