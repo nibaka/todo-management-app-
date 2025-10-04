@@ -217,8 +217,3 @@ npm run build
 ```
 
 This creates an optimized production build in the `dist/` folder.
-
-### Preview Production Build
-```bash
-npm run preview
-```
